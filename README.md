@@ -69,9 +69,9 @@ npm run dev
 
 📸 Screenshots
 (Home page, Product detail page, Cart page)
-![Home Page](./screenshot/\Product-Home.png)
-![Product Details](./screenshot/Product-Detail.png)
-![Cart Page](./screenshot/Product-Cart.png)
+![Home Page](/Product-Home.png)
+![Product Details](/Product-Detail.png)
+![Cart Page](/Product-Cart.png)
 
 
 👨‍💻 Author
@@ -81,14 +81,6 @@ Developed with ❤️ by Farhad Akbary
 🛒 فروشگاه ری‌اکتی – نسخه ۵
 
 یک پروژه فروشگاهی حرفه‌ای با React که برای نمایش مهارت‌های واقعی فرانت‌اند و آمادگی ورود به بازار کار طراحی شده است.
-
-این پروژه مناسب:
-
-نمونه‌کار گیت‌هاب
-
-ارائه به کارفرما
-
-شروع گرفتن پروژه‌های فریلنسری
 
 ✨ امکانات پروژه
 
@@ -148,9 +140,9 @@ npm run dev
 📸 تصاویر پروژه
 
 صفحه اصلی . صفحه جزئیات محصول . صفحه سبد خرید
-![Home Page](./screenshot/\Product-Home.png)
-![Product Details](./screenshot/Product-Detail.png)
-![Cart Page](./screenshot/Product-Cart.png)
+![Home Page](/Product-Home.png)
+![Product Details](/Product-Detail.png)
+![Cart Page](/Product-Cart.png)
 
 👨‍💻 توسعه‌دهنده
 
